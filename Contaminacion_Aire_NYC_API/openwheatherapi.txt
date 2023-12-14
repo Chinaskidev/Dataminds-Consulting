@@ -1,0 +1,18 @@
+
+key
+3818e9e1502e6ec304ee6777fae6cf79
+
+Coordinates by location name
+Manhattan, NY, US
+http://api.openweathermap.org/geo/1.0/direct?q=Manhattan, NY, US&limit=5&appid=3818e9e1502e6ec304ee6777fae6cf79
+lat 40.7896239
+lon -73.96042462582244
+
+Historical pollution septiembre 2023
+http://api.openweathermap.org/data/2.5/air_pollution/history?lat=40.7896239&lon=-73.96042462582244&start=1672531200&end=1675132799&appid=3818e9e1502e6ec304ee6777fae6cf79
+
+Fecha de inicio 1/9/23 en formato Unix: 1672531200
+Fecha de fin 30/9/23 en formato Unix: 1675132799
+
+
+http://api.openweathermap.org/data/2.5/air_pollution/forecast?lat=40.7896239&lon=-73.96042462582244&appid=3818e9e1502e6ec304ee6777fae6cf79
