@@ -1,0 +1,11 @@
+# archivos csv que utilice para el primer EDA
+/csv
+# ETL de los datos de taxis de NY
+/ETL_taxis_NY
+# archivos parquet
+/parquet
+# entorno virtual
+/venv
+
+
+
