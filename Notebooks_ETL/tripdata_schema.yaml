@@ -1,0 +1,98 @@
+- name: yellow_tripdata
+  schema:
+    - name: VendorID
+      type: INTEGER
+    - name: tpep_pickup_datetime
+      type: TIMESTAMP
+    - name: tpep_dropoff_datetime
+      type: TIMESTAMP
+    - name: passenger_count
+      type: INTEGER
+    - name: trip_distance
+      type: FLOAT
+    - name: RatecodeID
+      type: INTEGER
+    - name: store_and_fwd_flag
+      type: STRING
+    - name: PULocationID
+      type: INTEGER
+    - name: DOLocationID
+      type: INTEGER
+    - name: payment_type
+      type: INTEGER
+    - name: fare_amount
+      type: FLOAT
+    - name: extra
+      type: FLOAT
+    - name: mta_tax
+      type: FLOAT
+    - name: tip_amount
+      type: FLOAT
+    - name: tolls_amount
+      type: FLOAT
+    - name: improvement_surcharge
+      type: FLOAT
+    - name: total_amount
+      type: FLOAT
+    - name: congestion_surcharge
+      type: FLOAT
+    - name: Airport_fee
+      type: FLOAT
+- name: green_tripdata
+  schema:
+    - name: VendorID
+      type: INTEGER
+    - name: lpep_pickup_datetime
+      type: TIMESTAMP
+    - name: lpep_dropoff_datetime
+      type: TIMESTAMP
+    - name: store_and_fwd_flag
+      type: STRING
+    - name: RatecodeID
+      type: INTEGER # typo
+    - name: PULocationID
+      type: INTEGER
+    - name: DOLocationID
+      type: INTEGER
+    - name: passenger_count
+      type: INTEGER # typo
+    - name: trip_distance
+      type: FLOAT
+    - name: fare_amount
+      type: FLOAT
+    - name: extra
+      type: FLOAT
+    - name: mta_tax
+      type: FLOAT
+    - name: tip_amount
+      type: FLOAT
+    - name: tolls_amount
+      type: FLOAT
+    - name: ehail_fee
+      type: FLOAT # Omitir o marcar como NULLABLE si siempre es nulo
+    - name: improvement_surcharge
+      type: FLOAT
+    - name: total_amount
+      type: FLOAT
+    - name: payment_type
+      type: INTEGER # typo
+    - name: trip_type
+      type: INTEGER #typo
+    - name: congestion_surcharge
+      type: FLOAT
+- name: fhv_tripdata
+  schema:
+    - name: dispatching_base_num
+      type: STRING
+    - name: pickup_datetime
+      type: TIMESTAMP
+    - name: dropOff_datetime
+      type: TIMESTAMP
+    - name: PUlocationID
+      type: INTEGER #typo
+    - name: DOlocationID
+      type: INTEGER #typo
+    - name: SR_Flag
+      type: INTEGER # Omitir o marcar como NULLABLE si siempre es nulo
+    - name: Affiliated_base_number
+      type: STRING
