@@ -77,8 +77,6 @@ Fórmula:  (EmisionesCO2vehiculoConvencional − EmisionesCO2vehiculoElectrico) 
 <br>
 Meta: 	Alcanzar una reducción del 30% anual en las emisiones de CO2 por kilómetro con la introducción de vehículos eléctricos, en comparación con los vehículos convencionales.<br>
 <br>
-Bibliografía: 
-New York State Energy Research and Development Authority (NYSERDA). 2022 “Projected Emission Factors for New York State Grid Electricity,” NYSERDA Report Number 22-18. Albany, NY. [Enlace a la Web](https://www.nyserda.ny.gov/File%20Not%20Found?item=%2fpublications&user=extranet%5cAnonymous&site=nyserda) <br>
 
 <p align="center">
   <img src="./imagenes/kpi_electricos2.png" alt="Logo ECORIDE_NYC">
@@ -92,11 +90,6 @@ New York State Energy Research and Development Authority (NYSERDA). 2022 “Proj
 
    - **Meta:** Alcanzar una eficiencia un 15% mayor en la flota de vehículos eléctricos en comparación con la flota de vehículos convencionales.<br>
 
--**Bibliografía:**<br>
-
-[Electric-Vehicles](https://www.nyc.gov/html/dot/html/motorist/electric-vehicles.shtml#/find/nearest) <br>
-
-[Curbside-Level2-Charging](https://www.nyc.gov/html/dot/downloads/pdf/curbside-level-2-charging-pilot-faq.pdf)
 
 <h2>Conclusión</h2>
 
@@ -110,4 +103,13 @@ El uso innovador de técnicas avanzadas de Machine Learning para anticipar patro
 
 Dataminds Consulting se erige como un jugador clave en la transformación del transporte urbano. Este proyecto no solo demuestra la capacidad técnica de la empresa, sino también su compromiso con la innovación y la creación de soluciones prácticas.<br>
 
-¡Gracias a todos por ser parte de este emocionante viaje! 
+**Bibliografía:**<br>
+
+[Electric-Vehicles](https://www.nyc.gov/html/dot/html/motorist/electric-vehicles.shtml#/find/nearest) <br>
+
+[Curbside-Level2-Charging](https://www.nyc.gov/html/dot/downloads/pdf/curbside-level-2-charging-pilot-faq.pdf)
+
+New York State Energy Research and Development Authority (NYSERDA). 2022 “Projected Emission Factors for New York State Grid Electricity,” NYSERDA Report Number 22-18. Albany, NY. [Enlace a la Web](https://www.nyserda.ny.gov/File%20Not%20Found?item=%2fpublications&user=extranet%5cAnonymous&site=nyserda) <br>
+
+
+<h2>¡Gracias a todos por ser parte de este emocionante viaje!</h2>
