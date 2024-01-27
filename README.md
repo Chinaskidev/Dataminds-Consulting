@@ -42,9 +42,22 @@ Desarrollar un análisis integral de datos y aplicar técnicas de Machine Learni
 <h2>OBJETIVOS ESPECÍFICOS</h2>
 
 1. **Desarrollar un análisis detallado del mercado de taxis y viajes compartidos.**<br style="text-align: justify">
-   Realizar un estudio exhaustivo del mercado actual de taxis y servicios de viajes compartidos en la ciudad de Nueva York, con especial atención en la identificación de tendencias, patrones de demanda, preferencias de los clientes y la estructura competitiva. Este análisis integral tiene como objetivo proporcionar una comprensión detallada del entorno de mercado, permitiendo así la identificación de oportunidades estratégicas y desafíos que puedan influir en la toma de decisiones en el ámbito del transporte urbano.<br>
+   Realizar un estudio exhaustivo del mercado actual de **Taxis Amarillos,Taxis Verdes y Servicios de Uber,Lyft, etc... En la ciudad de Nueva York, con especial atención en la identificación de tendencias, patrones de demanda, preferencias de los clientes y la estructura competitiva. Este análisis integral tiene como objetivo proporcionar una comprensión detallada del entorno de mercado, permitiendo así la identificación de oportunidades estratégicas y desafíos que puedan influir en la toma de decisiones en el ámbito del transporte urbano.<br>
    [Más Información](https://github.com/Chinaskidev/Dataminds-Consulting/tree/main/EDA_Preliminar)<br>
+<p align="center">
+  <img src="./imagenes/taxis amarillos.png" alt="Logo ECORIDE_NYC"><br>
+  (Taxis Amarillos)
+</p>
+ <br>
 
+<p align="center">
+  <img src="./imagenes/taxis verdes.png" alt="Logo ECORIDE_NYC"><br>
+  (Taxis Verdes)
+</p> <br>
+<p align="center">
+  <img src="./imagenes/ubers.png" alt="Logo ECORIDE_NYC"><br>
+  (Taxis de Alquiler)
+</p> <br>
 <br>
 
 2. **Realizar un Análisis de Datos para Evaluar el Impacto Ambiental y Económico de Introducir Vehículos Eléctricos.**<br style="text-align: justify">
@@ -68,5 +81,33 @@ Bibliografía:
 New York State Energy Research and Development Authority (NYSERDA). 2022 “Projected Emission Factors for New York State Grid Electricity,” NYSERDA Report Number 22-18. Albany, NY. [Enlace a la Web](https://www.nyserda.ny.gov/File%20Not%20Found?item=%2fpublications&user=extranet%5cAnonymous&site=nyserda) <br>
 
 <p align="center">
-  <img src="./imagenes/kpis_electricos.png" alt="Logo ECORIDE_NYC">
+  <img src="./imagenes/kpi_electricos2.png" alt="Logo ECORIDE_NYC">
 </p>
+<br>
+
+**Eficiencia de la Flota Eléctrica:**<br style="text-align: justify">
+   - **Objetivo:** Evaluar la eficiencia de la flota de vehículos eléctricos en comparación con los vehículos convencionales.<br>
+
+   - **Fórmula:** (Kilómetros recorridos por vehículo eléctrico / Consumo energético total de vehículos eléctricos) / (Kilómetros recorridos por vehículo convencional / Consumo de combustible total de vehículos convencionales)<br>
+
+   - **Meta:** Alcanzar una eficiencia un 15% mayor en la flota de vehículos eléctricos en comparación con la flota de vehículos convencionales.<br>
+
+-**Bibliografía:**<br>
+
+[Electric-Vehicles](https://www.nyc.gov/html/dot/html/motorist/electric-vehicles.shtml#/find/nearest) <br>
+
+[Curbside-Level2-Charging](https://www.nyc.gov/html/dot/downloads/pdf/curbside-level-2-charging-pilot-faq.pdf)
+
+<h2>Conclusión</h2>
+
+En el contexto desafiante del transporte urbano de Nueva York, Dataminds Consulting ha forjado un enfoque integral y vanguardista con el proyecto "EcoRide NYC: Transformando la Movilidad Urbana". La amalgama de análisis de datos, Machine Learning y metas ambiciosas demuestra no solo un entendimiento profundo de las complejidades del mercado, sino también un compromiso firme con la sostenibilidad y la eficiencia operativa.<br>
+
+La exploración detallada del mercado de taxis y viajes compartidos sienta las bases para decisiones estratégicas informadas. La identificación de patrones de demanda y preferencias de los clientes ofrece una visión valiosa, permitiendo que EcoRide NYC se adapte a las dinámicas cambiantes del entorno.<br>
+
+El enfoque proactivo en la reducción de emisiones de CO2 y la optimización de la flota eléctrica refleja la visión futurista de EcoRide NYC. Los KPIs cuidadosamente seleccionados no solo establecen metas, sino que también proporcionan un marco para evaluar el impacto ambiental y económico de la transición a vehículos eléctricos.<br>
+
+El uso innovador de técnicas avanzadas de Machine Learning para anticipar patrones de demanda y mejorar la asignación de recursos es un testimonio de la capacidad de Dataminds para abordar desafíos complejos. La aplicación de modelos predictivos aporta una capa estratégica que puede marcar la diferencia en un mercado tan dinámico.<br>
+
+Dataminds Consulting se erige como un jugador clave en la transformación del transporte urbano. Este proyecto no solo demuestra la capacidad técnica de la empresa, sino también su compromiso con la innovación y la creación de soluciones prácticas.<br>
+
+¡Gracias a todos por ser parte de este emocionante viaje! 
