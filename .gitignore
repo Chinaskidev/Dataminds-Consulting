@@ -1,11 +1,19 @@
 # archivos csv que utilice para el primer EDA
-/csv
-# ETL de los datos de taxis de NY
-/ETL_taxis_NY
-# archivos parquet
-/parquet
-# entorno virtual
-/venv
+/Datasets
+# Documentacion de los primeros spring
+/Documentacion
+# csvs que utilice para el segundo EDA
+/EDA_Final
+# EDA preliminar
+/EDA_Preliminar
+# imagenes
+/imagenes
+# Archivos utilizados en google cloud
+/Notebooks_ETL
+# Archivos utilizados en google cloud machine learning
+/Notebooks_ML
+
+
 
 
 
