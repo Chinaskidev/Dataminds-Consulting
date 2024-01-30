@@ -61,11 +61,22 @@ Desarrollar un análisis integral de datos y aplicar técnicas de Machine Learni
 <br>
 
 2. **Realizar un Análisis de Datos para Evaluar el Impacto Ambiental y Económico de Introducir Vehículos Eléctricos.**<br style="text-align: justify">
-Aplicar metodologías avanzadas de análisis de datos para llevar a cabo una evaluación integral del impacto derivado de la incorporación de vehículos eléctricos en la flota existente. Este análisis abarcará la comparación detallada de emisiones de CO2, consumo energético y costos operativos entre vehículos eléctricos y sus contrapartes convencionales. Adicionalmente, se emplearán técnicas de **machine learning** para modelar diversos escenarios futuros, considerando diferentes niveles de adopción de vehículos eléctricos. Estos modelos permitirán prever los efectos a largo plazo tanto en términos de sostenibilidad ambiental como en la rentabilidad económica del proyecto. [Más Información](https://github.com/Chinaskidev/Dataminds-Consulting/tree/main/EDA_Final) <br>
+Aplicar metodologías avanzadas de análisis de datos para llevar a cabo una evaluación integral del impacto derivado de la incorporación de vehículos eléctricos en la flota existente. Este análisis abarcará la comparación detallada de emisiones de CO2, consumo energético y costos operativos entre vehículos eléctricos y sus contrapartes convencionales. Adicionalmente, se emplearán técnicas de **machine learning** para modelar diversos escenarios futuros, considerando diferentes niveles de adopción de vehículos eléctricos. Estos modelos permitirán prever los efectos a largo plazo tanto en términos de sostenibilidad ambiental como en la rentabilidad económica del proyecto. <br>
+
+<p align="center">
+  <img src="./imagenes/app.png" alt="Logo ECORIDE_NYC">
+</p>  
+
+[Más Información](https://github.com/Chinaskidev/Dataminds-Consulting/tree/main/EDA_Final) 
 <br>
 
 3. **Desarrollar Modelos Predictivos de Machine Learning para Optimizar la Operación y Demanda del Servicio de Taxis.**<br style="text-align: justify">
-El objetivo fundamental consiste en desarrollar modelos predictivos capaces de anticipar patrones de demanda, optimizar rutas y horarios, y perfeccionar la asignación de recursos. Estos modelos representarían herramientas fundamentales para la toma de decisiones basadas en datos, destinadas a potenciar la eficiencia operativa y elevar la calidad de la experiencia del cliente por parte de la empresa.<br>[Más Información](https://github.com/Chinaskidev/Dataminds-Consulting/tree/main/Notebooks_ML)<br>
+El objetivo fundamental consiste en desarrollar modelos predictivos capaces de anticipar patrones de demanda, optimizar rutas y horarios, y perfeccionar la asignación de recursos. Estos modelos representarían herramientas fundamentales para la toma de decisiones basadas en datos, destinadas a potenciar la eficiencia operativa y elevar la calidad de la experiencia del cliente por parte de la empresa.<br>
+A través de un modelo de aprendizaje automático que integra variables climáticas, como la temperatura, precipitaciones, y condiciones atmosféricas, predice con mayor precisión la demanda de taxis en diferentes zonas de Nueva York. La aplicación, accesible mediante una interfaz web, permite a los operadores anticipar la demanda considerando no solo la ubicación y el tiempo, sino también el estado del clima.
+
+[Más Información](https://github.com/Chinaskidev/Dataminds-Consulting/tree/main/Notebooks_ML)<br> [Modelo-ML-App](https://demandpredictor-argsx2hozvnjcd7wlxfqg9.streamlit.app/) 
+
+
 <br>
 
 <h2>KPI´S ASOCIADOS</h2>
